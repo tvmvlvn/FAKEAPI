@@ -4,69 +4,339 @@
     "id": 1,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/1_4020010?related_id=4020010",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/1_4020010?related_id=4020010"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/1_4020010?related_id=4020010",
+    "name": "Дүрэм, журам, стандарт",
+    "children": [
+                {
+                    "key": "200305709585430016",
+                    "name": "Бүтээгдэхүүний хадгалалт , хамгаалалт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430020",
+                    "name": "Дэлгүүрийн нээлт, хаалт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430014",
+                    "name": "Үйлчилгээний стандарт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430015",
+                    "name": "Үндсэн тасгийн өрөлт",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 2,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/2_4020011?related_id=4020011&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/2_4020011?related_id=4020011&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/2_4020011?related_id=4020011&origin=pack",
+    "name": "Засвар үйлчилгээ",
+    "children": [
+                {
+                    "key": "200305709585430017",
+                    "name": "Хөргөлтийн төхөөрөмж",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430018",
+                    "name": "Цахилгаан тоног, төхөөрөмж",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 3,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/3_4020012?related_id=4020012&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/3_4020012?related_id=4020012&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/3_4020012?related_id=4020012&origin=pack",
+    "name": "Хэрэглээний бүртгэл",
+    "children": [
+                {
+                    "key": "200305709585430004",
+                    "name": "Ажилчдын нормын хувцас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430003",
+                    "name": "Анхны тусламжийн иж бүрдэл",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430005",
+                    "name": "Бичгийн цаасны хэрэглээ",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430006",
+                    "name": "Принтерийн хорны хэрэглээ",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 4,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/4_4020013?related_id=4020013&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/4_4020013?related_id=4020013&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/4_4020013?related_id=4020013&origin=pack",
+    "name": "Тоолуурын заалт",
+            "children": [
+                {
+                    "key": "200305709585430007",
+                    "name": "Усны тоолуурын заалт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430008",
+                    "name": "Цахилгааны тоолуурын заалт",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 5,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/5_4020014?related_id=4020014&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/5_4020014?related_id=4020014&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/5_4020014?related_id=4020014&origin=pack",
+    "name": "Температурын бүртгэл",
+            "children": [
+                {
+                    "key": "200305709585430031",
+                    "name": "Хөргөгч, хөлдөөгчний температур",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430012",
+                    "name": "Худалдааны заалны температур",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 6,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/6_4020015?related_id=4020015&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/6_4020015?related_id=4020015&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/6_4020015?related_id=4020015&origin=pack",
+    "name": "Цэвэрлэгээ, ариутгал",
+            "children": [
+                {
+                    "key": "200305709585430009",
+                    "name": "Өрөөний цэвэрлэгээ",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430030",
+                    "name": "Тоног төхөөрөмжийн ариутгал",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430029",
+                    "name": "Тоног төхөөрөмжийн цэвэрлэгээ",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430025",
+                    "name": "Худалдааны танхимын цэвэрлэгээ",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 7,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/7_4020016?related_id=4020016&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/7_4020016?related_id=4020016&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/7_4020016?related_id=4020016&origin=pack",
+    "name": "Бусад",
+            "children": [
+                {
+                    "key": "200305709585430021",
+                    "name": "Бараа буцаалтын хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305685377000000",
+                    "name": "Гадна гэрлэн хаяг",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430027",
+                    "name": "Дэлгүүрийн узель шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430047",
+                    "name": "ЗБ ээлж солилцох хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430032",
+                    "name": "Хог тээврийн бүртгэл",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430028",
+                    "name": "Хэмжих хэрэгслийн нэгдсэн бүртгэл",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430022",
+                    "name": "ЭМ, Өвчлөлийн бүртгэл",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430026",
+                    "name": "ЭМ-ийн шинжилгээний дэвтэр",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 8,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/8_4020017?related_id=4020017&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/8_4020017?related_id=4020017&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/8_4020017?related_id=4020017&origin=pack",
+    "name": "Хоолны хяналт",
+            "children": [
+                {
+                    "key": "200305709585430034",
+                    "name": "Дотоод хяналт шалгалт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430033",
+                    "name": "Өдөр тутмын хяналт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430035",
+                    "name": "Үйлчилгээний хяналт",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430036",
+                    "name": "Улирлын хяналт",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 9,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/9_4020018?related_id=4020018&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/9_4020018?related_id=4020018&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/9_4020018?related_id=4020018&origin=pack",
+    "name": "Бүтээгдэхүүний нэр төрөл шалгах хуудас",
+            "children": [
+                {
+                    "key": "200305709585430038",
+                    "name": "Жимсний нэр төрөл шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430037",
+                    "name": "Махны нэр төрөл шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430039",
+                    "name": "Сүү, сүүн бүтээгдэхүүний шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   },
   {
     "albumId": 1,
     "id": 10,
     "title": "accusamus beatae ad facilis cum similique qui sunt",
     "url": "https://www.flaticon.com/free-icon/10_4020020?related_id=4020020&origin=pack",
-    "thumbnailUrl": "https://www.flaticon.com/free-icon/10_4020020?related_id=4020020&origin=pack"
+    "thumbnailUrl": "https://www.flaticon.com/free-icon/10_4020020?related_id=4020020&origin=pack",
+    "name": "ИТС хэвийн үйл ажиллагаа",
+            "children": [
+                {
+                    "key": "200305709585430041",
+                    "name": "Агааржуулалтын шугам сүлжээ, тоноглолтын хэвийн ажиллагааг шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430042",
+                    "name": "Барилгын хяналтын үзлэг шалгалтын хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430045",
+                    "name": "Бусад хаалганы хэвийн ажиллагааг шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430043",
+                    "name": "Дотоод хяналтын хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430046",
+                    "name": "Савдаг хаалганы хэвийн ажиллагааг шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430044",
+                    "name": "Ус хангамж, ариутгах татуургын шугам сүлжээний хэвийн ажиллагааг шалгах хуудас",
+                    "daily": 0,
+                    "percent": 0
+                },
+                {
+                    "key": "200305709585430040",
+                    "name": "Хөргөлтийн тоног төхөөрөмжийн хэвийн ажиллагаа",
+                    "daily": 0,
+                    "percent": 0
+                }
+            ]
   }
 ]
